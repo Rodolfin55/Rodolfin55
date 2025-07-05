@@ -10,7 +10,7 @@ I've been learning about programming, and I am very enthusiastic to get in the d
 * 🖥️  See my portfolio at [https://rodolfin55.github.io/griffindor/](http://rodolfin55.github.io/griffindor/)
 * ✉️  You can contact me at [rodolfo.rm9100@gmail.com](mailto:rodolfo.rm9100@gmail.com)
 * 🧠  I'm learning C# and .NET
-* ⚡  Im Elliot Alderson:D D:
+* ⚡  System engineer/ Im Elliot Alderson:D D:
 
 ### Skills
 
